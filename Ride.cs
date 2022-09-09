@@ -15,6 +15,7 @@ namespace CabInvoiceGenerator
         {
             this.distance = distance;
             this.time = time;
+            
         }
     }
 }
